@@ -1,7 +1,7 @@
 
-
-h
-ApplicationTest&lk.ac.mrt.cse.dbs.simpleexpensemanagertransactionIncome2õšë“ÀÈù–:õšë“€É²"ù
+œ
+f
+ApplicationTest&lk.ac.mrt.cse.dbs.simpleexpensemanagertransactionIncome2¶§ë“€ï¹4:¶§ë“€ÿÚC"ù
 
 logcatandroidã
 àC:\Users\CHAMA COMPUTERS\Desktop\SE Assignment\SimpleExpenseManager\app\build\outputs\androidTest-results\connected\Pixel_5_API_30(AVD) - 11\logcat-lk.ac.mrt.cse.dbs.simpleexpensemanager.ApplicationTest-transactionIncome.txt"¹
@@ -13,9 +13,9 @@ h
 ”C:\Users\CHAMA COMPUTERS\Desktop\SE Assignment\SimpleExpenseManager\app\build\outputs\androidTest-results\connected\Pixel_5_API_30(AVD) - 11\meminfo"º
 
 device-info.cpuinfoandroid—
-”C:\Users\CHAMA COMPUTERS\Desktop\SE Assignment\SimpleExpenseManager\app\build\outputs\androidTest-results\connected\Pixel_5_API_30(AVD) - 11\cpuinfo 
-i
-ApplicationTest&lk.ac.mrt.cse.dbs.simpleexpensemanagertransactionExpense2õšë“€öò¶:õšë“€éÒĞ"ú
+”C:\Users\CHAMA COMPUTERS\Desktop\SE Assignment\SimpleExpenseManager\app\build\outputs\androidTest-results\connected\Pixel_5_API_30(AVD) - 11\cpuinfo
+g
+ApplicationTest&lk.ac.mrt.cse.dbs.simpleexpensemanagertransactionExpense2¶§ë“€¬½H:¶§ë“À·¡W"ú
 
 logcatandroidä
 áC:\Users\CHAMA COMPUTERS\Desktop\SE Assignment\SimpleExpenseManager\app\build\outputs\androidTest-results\connected\Pixel_5_API_30(AVD) - 11\logcat-lk.ac.mrt.cse.dbs.simpleexpensemanager.ApplicationTest-transactionExpense.txt"¹
@@ -27,10 +27,10 @@ i
 ”C:\Users\CHAMA COMPUTERS\Desktop\SE Assignment\SimpleExpenseManager\app\build\outputs\androidTest-results\connected\Pixel_5_API_30(AVD) - 11\meminfo"º
 
 device-info.cpuinfoandroid—
-”C:\Users\CHAMA COMPUTERS\Desktop\SE Assignment\SimpleExpenseManager\app\build\outputs\androidTest-results\connected\Pixel_5_API_30(AVD) - 11\cpuinfo
-a
+”C:\Users\CHAMA COMPUTERS\Desktop\SE Assignment\SimpleExpenseManager\app\build\outputs\androidTest-results\connected\Pixel_5_API_30(AVD) - 11\cpuinfo
+_
 ApplicationTest&lk.ac.mrt.cse.dbs.simpleexpensemanager
-addAccount2õšë“ÀíÑ:õšë“ÀÿƒÓ"ò
+addAccount2¶§ë“€¼ŞW:¶§ë“€ÎÒY"ò
 
 logcatandroidÜ
 ÙC:\Users\CHAMA COMPUTERS\Desktop\SE Assignment\SimpleExpenseManager\app\build\outputs\androidTest-results\connected\Pixel_5_API_30(AVD) - 11\logcat-lk.ac.mrt.cse.dbs.simpleexpensemanager.ApplicationTest-addAccount.txt"¹
