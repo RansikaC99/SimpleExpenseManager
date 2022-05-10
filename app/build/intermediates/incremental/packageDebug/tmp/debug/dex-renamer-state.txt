@@ -1,4 +1,4 @@
-#Wed May 04 02:10:22 IST 2022
-base.0=C\:\\Users\\User\\Desktop\\DB project\\190112E\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Wed May 11 02:08:47 IST 2022
+base.0=C\:\\Users\\CHAMA COMPUTERS\\Desktop\\SE Assignment\\SimpleExpenseManager\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

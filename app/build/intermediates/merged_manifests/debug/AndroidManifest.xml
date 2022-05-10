@@ -33,6 +33,7 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="lk.ac.mrt.cse.dbs.simpleexpensemanager.ui.MainActivity"
+            android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar" >
             <intent-filter>
