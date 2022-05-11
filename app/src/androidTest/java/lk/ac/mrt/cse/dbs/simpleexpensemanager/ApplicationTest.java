@@ -79,7 +79,7 @@ public class ApplicationTest {
         double currentBalance = expenseManager.getAccountsDAO().getAccount("1122").getBalance();
 
         assertTrue(oldBalance-currentBalance==2500.00);
-        //b
+
 
     }
 
